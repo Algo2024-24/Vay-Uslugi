@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: gray;
+}
+header a{
+    text-align: right;
+    color: black;
+}
+footer{
+    background-color: gray;
+    border: 1px solid gray;
+}
+footer p{
+    background-color: white;
+    border-right: 2px solid gray;
+    border-left: 2px solid gray;
+}
